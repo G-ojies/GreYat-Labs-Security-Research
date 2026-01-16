@@ -1,5 +1,3 @@
-# GreYat-Labs-Security-Research
-A repository documenting security research, system recovery protocols, and technical guides for secure computing.
 # Greyat Labs: Security & Systems Research
 
 Greyat Labs is a personal initiative focused on low-level system security, digital forensics, and secure software development. This repository serves as a documentation hub for my research into system vulnerabilities and recovery.
